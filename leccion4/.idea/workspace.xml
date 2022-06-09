@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d594ed2a-9281-4b97-ad88-2bc2a3b997f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejers/ejer1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ejers/ejer1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../genericsProyect/pythonProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../genericsProyect/pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../genericsProyect/pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../genericsProyect/pythonProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../genericsProyect/pythonProject1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leccion1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leccion2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leccion3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leccion3/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="29eoKCGg0uBi43Hyz9zMBBpGJpW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/jeroa/tecnicaturagit/python/lecciones/leccion4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d594ed2a-9281-4b97-ad88-2bc2a3b997f7" name="Changes" comment="" />
+      <created>1653482845889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653482845889</updated>
+    </task>
+    <servers />
+  </component>
+</project>
